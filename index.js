@@ -8,6 +8,8 @@ let teacher="raktim";
 teacher="sita";
 console.log(teacher);
 
+
+
 const username = "ugen";
 
 console.log(username);
@@ -40,7 +42,31 @@ console.log(danceType);
 
 let subject = "maths";
 subject = "computer";
-console.log(subject)
+console.log(subject);
+
+
+var address = "baneshwor";
+address = "boudha";
+console.log(address);
+
+var mobNumber ="9810297846";
+mobNumber = "9823846179";
+console.log(mobNumber);
+
+var emailAddress = "ugensherpa1643@gmail.com";
+emailAddress = "ugensherpa1997@gmail.com";
+console.log(emailAddress);
+
+var country = "china";
+country = "nepal";
+console.log(country);
+
+
+console.log(2+2);
+
+
+
+ 
 
 
 
